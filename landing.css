@@ -230,7 +230,7 @@
         flex-wrap: wrap;
         /* Allow cards to wrap to the next line on smaller screens */
         justify-content: space-between;
-        /* margin-top: 10%; */
+          padding-left: 150px;     
     }
 
     .card {
